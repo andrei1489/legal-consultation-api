@@ -50,7 +50,9 @@ TBD
 
 ## Deployment
 
-TBD
+- mvn clean
+- mvn install
+- mvn spring-boot:run
 
 ## Feedback
 
