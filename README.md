@@ -1,20 +1,20 @@
-# Legal Consultation
+# Legal Consultation App
 
 [![GitHub contributors](https://img.shields.io/github/contributors/code4romania/legal-consultation-api.svg?style=for-the-badge)](https://github.com/code4romania/legal-consultation-api/graphs/contributors) [![GitHub last commit](https://img.shields.io/github/last-commit/code4romania/legal-consultation-api.svg?style=for-the-badge)](https://github.com/code4romania/legal-consultation-api/commits/master) [![License: MPL 2.0](https://img.shields.io/badge/license-MPL%202.0-brightgreen.svg?style=for-the-badge)](https://opensource.org/licenses/MPL-2.0)
 
 API for Legal Consultation, a project designed to ease the process of public consultation with experts in Romania.
 
-[See the project live](insert_link_here)
+[See the project live](https://www.figma.com/proto/7VLlmWKJOjS3YXkOFjMRi0/Legal-Consultation?node-id=0%3A1&scaling=min-zoom)
 
-De fiecare data cand un grup sau o institutie propun o noua lege, exista o perioada in care acestia trebuie sa se consulte cu comunitati de experti. De exemplu, legislatia pe urbanism, constructii sau arhitectura in general ajunge mereu la Ordinul Arhitectilor din Romania pentru consultare. Perioada de consultare este una foarte scurta si de cele mai multe ori nu toti membrii acestor grupuri de experti au timpul necesar la dispozitie si nici instrumentele necesare pentru a-si aduce contributia eficient.Procedura de consultare in cadrul grupului este una foarte ad-hoc, realizata prin documente fizice, social media, sau exceluri transferate pe mail inainte-inapoi intre toti participantii, iar grupurile acestea au uneori peste 4-5 mii de experti la care ar trebui sa ajunga informatia si sa se intoarca in cateva zile.
+Whenever a group or institution proposes a new law, there is a time when they need to consult with expert communities. For example, legislation on urban planning, construction, or architecture generally reaches the Architects' Order in Romania for consultation. The consultation period is very short and most of the time, not all members of these expert groups have the necessary time and tools to make their contribution effective. The consultation process within the group is very ad-hoc, made through physical documents, social media, or excel files forwarded back and forth between all participants, and these groups sometimes have more than 4-5 thousand experts who should get information and come back in a few days.
 
-La finalul consultarii lucrurile devin si mai complicate pentru ca o persoana trebuie sa valideze si sa consolideze tot feedbackul intr-o forma coerenta, care poate fi trimisa inapoi catre minister.
+At the end of the consultation, things become even more complicated because a person needs to validate and consolidate all feedback in a coherent form that can be sent back to the ministry.
 
-Construim pentru acest tip de consultare un instrument digital care sa le permita acestor grupuri sa lucreze direct pe textul de lege, sa contribuie cu feedback, propuneri, comentarii, sa voteze si sa amendeze anumite propuneri, articole sau comentarii ale altor participanti etc si apoi sa consolideze automat documentul final. Acest instrument va permite astfel eficientizarea consultarii cu experti dand timp suficient tuturor sa isi exprime opinia, eliminand birocratia inutila si permitant accesul in timp real la aceeasi informatie pentru mii de oameni care altfel ar dialoga exclusiv cu un singur punct de contact - si anume persoana care centralizeaza opiniile tuturor. In acelasi timp elimina si toata perioada inutila petrecuta pe formatarea textului de lege, pe consolidarea comentariilor similare, pe eliminarea comentariilor inutile sau irelevante etc.
+We build a digital tool for this type of consultation to allow these groups to work directly on the text, to contribute feedback, suggestions, comments, vote and amend certain proposals, articles or comments from other participants etc. and then automatically reinforce the final document. This tool will make it easier to consult with experts, giving enough time for everyone to express their opinion, eliminating unnecessary bureaucracy and allowing real-time access to the same information for thousands of people who otherwise would only interact with a single point of contact - centralizes everyone's opinions. At the same time, it eliminates all the useless time spent on formatting the law, consolidating similar comments, eliminating unnecessary or irrelevant comments, etc.
 
-O mare problema este de asemenea hatisul legislativ si faptul ca atunci cand expertii dau feedback au nevoie sa aiba acces la o suita de alte documente legislative pentru a putea da un comentarui pertinent, ceea ce pana acum cadea in responsabilitatea fiecaruia dintre ei si tinea de capacitatea fiecaruia de a discerne ce document adiacent este sau nu relevant. Instrumnetul digital le permite consultarea altor legi relevante direct in platforma si face singur conexiunile necesare pentru toti participantii.
+A big problem is also the legislative hat and the fact that when feedback is needed, they need to have access to a suite of other legislative documents in order to give a pertinent comment, which so far falls under the responsibility of each of them and has the capacity everyone to discern which adjacent document is relevant or not. Digital tools allow them to consult other relevant laws directly on the platform and make the necessary connections for all participants on their own.
 
-Instrumentul contribuie enorm si la transparentizarea procesului de consultare, care acum va fi unul deschis pentru toata lumea, unde fiecare va putea vedea comentariile celorlalti si produsul final.
+The tool also contributes to the transparency of the consultation process, which will now be open to everyone, where everyone can see the comments of others and the end product.
 
 [Contributing](#contributing) | [Built with](#built-with) | [Repos and projects](#repos-and-projects) | [Deployment](#deployment) | [Feedback](#feedback) | [License](#license) | [About Code4Ro](#about-code4ro)
 
@@ -46,7 +46,7 @@ TBD
 
 ## Repos and projects
 
-Mention all related repos and projects.
+- [Legal Consultation Client](https://github.com/code4romania/legal-consultation-client)
 
 ## Deployment
 
